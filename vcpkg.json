@@ -1,0 +1,7 @@
+{
+  "name": "memsuck",
+  "version": "1.0.0",
+  "dependencies": [
+    "cxxopts"
+  ]
+}
